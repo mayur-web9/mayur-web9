@@ -50,6 +50,10 @@ My name is Mayur Patil, and I am a web developer. Currently, I am focusing on le
 [![](https://visitcount.itsvg.in/api?id=mayur-web9&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+# Snake Animation:
 <img src="https://raw.githubusercontent.com/mayur-web9/mayur-web9/output/snake.svg" alt="Snake animation" />
+
 
 ###
